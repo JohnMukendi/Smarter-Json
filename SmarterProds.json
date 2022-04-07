@@ -30,7 +30,8 @@
         "name":"Auto Darkening Mars Colour",
         "category":"Welding Helmets",
         "image":"img4.png",
-        "description":[
+        "description":
+        [
             "For use on ARC,MAG,STICK & TIG welding & plasma cutting",
             "Full 1 Year Limited Warranty",
             "Includes 2 Sets Free Lenses,Spares Also Available"
@@ -45,7 +46,8 @@
         "name":"Cobra Auto Darkening Goggle",
         "category":"Welding Helmets",
         "image":"img6.png",
-        "description":[
+        "description":
+        [
             "For welding in hard-to-reach areas like pipes where a conventional auto darkening helmet is not suitable",
             "Advanced comfortable silicon lining",
             "Air vent system for \"Eye-Breath\"",
@@ -102,7 +104,8 @@
         "name":"5 Row Wire Brush",
         "category":"Wire Brushes",
         "image":"img11.png",
-        "description":[
+        "description":
+        [
             "5 ROW WIRE BRUSH",
             "WOODEN HANDLE",
             "AVAILABLE IN STAINLESS STEEL AND MID STEEL"
@@ -1030,7 +1033,7 @@
             "Enough fuel to cut up to 300mm steel",
             "Smooth adjustmet, with high precision",
             "Maximum inlet pressure of 230 bar",
-            "High pressure capsule seat with PTFE (Teflon)",
+            "High pressure capsule seat with PTFE (Teflon®)",
             "\"D\" versions and self reseating internal safety relief valve (IRV)",
             "Quality 50mm metal, black cased, guages",
             "Standard version with black  painted bonnet"
