@@ -476,14 +476,137 @@
         "description":[
             "Suitable for maintenance and repair",
             "Lightweight 3.2kg ARC wleder with carry strap",
-            "Over-current and over voltage protection"
+            "Over-current & over voltage protection"
         ]
     },
     {
-        "name":"",
-        "category":"",
+        "name":"MegaTec MMA 200 Black Series",
+        "category":"Welding Ineverters",
         "image":"img53.png",
         "description":[
+            "Suitable for maintenance and repair",
+            "Lightweight 3.2kg ARC welder with carry strap",
+            "Over-current & over voltage protection"
+        ]
+    },
+    {
+        "name":"Javweld MMA 200 Sky Arc",
+        "category":"Welding Ineverters",
+        "image":"img54.png",
+        "description":[
+            "Suitable for the mining industry, maintenance & light fabrication",
+            "Lift Tig capable with crisp low start-up ignition for the welding of thin stainless steel and mild steel",
+            "Adjsustable Hot Start for easy striking and ignition for the arc",
+            "Arc Force adjustments for better puddle control on MMA welding",
+            "Very safe operation with the benefit of VRD function - which is a pprerequisite at the mines",
+            "Digital Display for accurate amperage setting",
+            "Large dinse connectors for better current flow",
+            "Polycarbonate screen protector",
+            "High duty cycle, light and portable"
+        ]
+    },
+    {
+        "name":"MegaTec 230 AMP DC MMA INverter",
+        "category":"Welding Ineverters",
+        "image":"img55.png",
+        "description":[
+            "Synergic MMA welder with lift TIG",
+            "Synergic Electrode Settings",
+            "VRD",
+            "Hot start / ARC force",
+            "Anti stick",
+            "Digital display for accurate amperage setting",
+            "Large dinse connectors for better current flow",
+            "Maintenance & Light Fabrication",
+            "First commercially available Synergic preinstalled MMA settings",
+            "High duty cycle, light and portable"
+        ]
+    },
+    {
+        "name":"Javweld MMA 250-3 380V/525V",
+        "category":"Welding Ineverters",
+        "image":"img56.png",
+        "description":[
+            "Mining Edition",
+            "Extra function: Adjustable Hot start / Anti-sticking / Arc force automatic",
+            "Digital display: Digital display of welding parameters",
+            "Protection: Equiped with temperature, voltage and current sensors",
+            "VRD (Voltage Reducing Device) for improved safety (13 Volts)"
+        ]
+    },
+    {
+        "name":"MegaTec 400 AMP DC MMA Inverter",
+        "category":"Welding Inverter",
+        "image":"img57.png",
+        "description":[
+            "Powerful 400A arc welder with 60% duty cycle",
+            "For heavy fabrication and continuous production",
+            "Hot start and arc force adjustments",
+            "Easy welding of low hydrogen and iron powder electrodes",
+            "Digital display for accurate amperage adjustemtnts",
+            "Over-load protection"
+        ]
+    },
+    {
+        "name":"CS-2000 6V/12V 2A Battery Charger",
+        "category":"Gudetek Inverter Battery Charges",
+        "image":"img58.png",
+        "description":[
+            "Automatic Charge 2A",
+            "Protects against reverse polarity, sparks, over-charging, over-current,open-cicuits, short-circuits and overheating",
+            "Memory mode re-boot",
+            "Intelligent system micro processor inside",
+            "Applies a high-voltage pulse charge when low-voltage, sulfation or lost capacity is detected",
+            "Intelligently enters Norm / Cold mode and 8 hour repair process is battery voltage is too low (Only for 12V mode)"
+        ]
+    },
+    {
+        "name":"CS-300 6V/12V 4A Battery Charger",
+        "category":"Gudetek Inverter Battery Charges",
+        "image":"img59.png",
+        "description":[
+            "Automatic Charge 4A",
+            "Fully protected against short-cicuit",
+            "Memory mode re-boot",
+            "Intelligent system micro processor inside",
+            "Charge and maintenance",
+            "Electronic protection"
+        ]
+    },
+    {
+        "name":"CS-7000 6V/12V/24V 7A Battery Charger",
+        "category":"Gudetek Inverter Battery Charges",
+        "image":"img60.png",
+        "description":[
+            "Automatic Charge 7A",
+            "Fully protected against short-cicuit",
+            "Memory mode re-boot",
+            "Intelligent system micro processor inside",
+            "Charge and maintenance",
+            "Electronic protection"
+        ]
+    },
+    {
+        "name":"",
+        "category":"",
+        "image":"img.png",
+        "description":[
+
+        ]
+    },
+    {
+        "name":"",
+        "category":"",
+        "image":"img.png",
+        "description":[
+
+        ]
+    },
+    {
+        "name":"",
+        "category":"",
+        "image":"img.png",
+        "description":[
 
         ]
     },
@@ -510,7 +633,39 @@
         "description":[
 
         ]
-    }
+    },
+    {
+        "name":"",
+        "category":"",
+        "image":"img.png",
+        "description":[
+
+        ]
+    },
+    {
+        "name":"",
+        "category":"",
+        "image":"img.png",
+        "description":[
+
+        ]
+    },
+    {
+        "name":"",
+        "category":"",
+        "image":"img.png",
+        "description":[
+
+        ]
+    },
+    {
+        "name":"",
+        "category":"",
+        "image":"img.png",
+        "description":[
+
+        ]
+    },
     
     
     
