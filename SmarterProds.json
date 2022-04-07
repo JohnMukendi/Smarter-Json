@@ -587,86 +587,454 @@
         ]
     },
     {
-        "name":"",
-        "category":"",
-        "image":"img.png",
+        "name":"Javweld TIG 200 DC Pulse Inverter HF TIG Welder",
+        "category":"Javweld HE Series",
+        "image":"img61.png",
         "description":[
-
+            "Dual pulse function",
+            "PFC Technology",
+            "Pulse: High performance on ultra thin surfaces with no deformation",
+            "Protection: Equipped with temperature,voltage and current sensors for high protection",
+            "Selectable pre/post flow time",
+            "Multi-purpose: MMA / Lift TIG/HIG Tig",
+            "Selectable Up and Down Slope time",
+            "Has capability of fingertip amperage control from torch"
         ]
     },
     {
-        "name":"",
-        "category":"",
-        "image":"img.png",
+        "name":"Javweld TIG 200 AC/DC Pulse Inverter HF TIG Welder",
+        "category":"Javweld HE Series",
+        "image":"img62.png",
         "description":[
-
+            "PFC Technology",
+            "Waveforms: Square wave, sine wave are selectable control moniters the oxide and helps better cleaning during aluminium welding",
+            "Protection: Equiped with temperature, voltage and current sensors for high protection",
+            "Spot Time: Unique spot time/pulse time function selectable",
+            "Has capability of fingertip amperage control from torch"
         ]
     },
     {
-        "name":"",
-        "category":"",
-        "image":"img.png",
+        "name":"Javweld TIG 400 DC Pulse Inverter HF TIG Welder",
+        "category":"Javweld HE Series",
+        "image":"img63.png",
         "description":[
-
+            "Full pulse TIG function with great low amperage start up",
+            "Capability of amperage control on TIG torch",
+            "Pulse Fre.: 0.5 -250",
+            "Wired foot pedal ready",
+            "Heaby industrial use",
+            "lift TIG & MMA",
+            "Hot start / Arc force built in",
+            "Insulation Class: H",
+            "Protection Class: IP23"
         ]
     },
     {
-        "name":"",
-        "category":"",
-        "image":"img.png",
+        "name":"Javweld TIG 400 AC/DC Welder",
+        "category":"Javweld HE Series",
+        "image":"img64.png",
         "description":[
-
+            "AC Wave Forms; Square Form; Sine Wave & Triangular Wave",
+            "Full pulse Tig function with great low amperage start up",
+            "Capability of amperage control on TIG torch",
+            "Wireless foot pedal ready",
+            "Program and store settings",
+            "Adjustable AC frequency",
+            "Adjustable AC balance",
+            "Heavy Industrial use",
+            "Hot start & Arc force built on",
+            "Insulation Class: H"
         ]
     },
     {
-        "name":"",
-        "category":"",
-        "image":"img.png",
+        "name":"MegaTec 180 AMP 220V Multi-Process Welder",
+        "category":"Mig Machines",
+        "image":"img65.png",
         "description":[
-
+            "MIG / MAG / MMA",
+            "Air-cooled",
+            "Adjustable arc force",
+            "Temperature and over-current thermostatic control",
+            "Digital display for accurate amperage settings",
+            "Inductance manipulation",
+            "5KG Wire capacity"
         ]
     },
     {
-        "name":"",
-        "category":"",
-        "image":"img.png",
+        "name":"MegaTec 230 AMP 220V Multi-Process Welder",
+        "category":"Mig Machines",
+        "image":"img66.png",
         "description":[
-
+            "MIG / MAG / MMA",
+            "Air-cooled",
+            "Hot start / Arc force",
+            "Temperature and over-current sensors",
+            "Digital display for accurate amperage settings",
+            "Large panel mount connectors allow for better current transfer",
+            "Inching button",
+            "Compact (Built in wire feeder)",
+            "Inductance manipulation",
+            "15Kg Wire capacity"
         ]
     },
     {
-        "name":"",
-        "category":"",
-        "image":"img.png",
+        "name":"Promig 250C C02 Welder with Built in Trolley",
+        "category":"Mig Machines",
+        "image":"img67.png",
         "description":[
-
+            "Single phase 250A power source handling 15Kg wirew reel",
+            "Inductance adjustments for puddle control",
+            "Under carriage for quick and easy moving for different location",
+            "Multi-process allows for ARC welding features",
+            "Digital display for accurate amperage adjustemtnts",
+            "Inductance manipulation"
         ]
     },
     {
-        "name":"",
-        "category":"",
-        "image":"img.png",
+        "name":"Javweld MIG 315",
+        "category":"Mig Machines",
+        "image":"img68.png",
         "description":[
-
+            "5KG Wire capacity",
+            "4 Roll wire feeder",
+            "Wave form control for better Arc stability",
+            "Equipped with temperature voltage and current sensors for high protection"
         ]
     },
     {
-        "name":"",
-        "category":"",
-        "image":"img.png",
+        "name":"Javweld MIG 350",
+        "category":"Mig Machines",
+        "image":"img69.png",
         "description":[
-
+            "Separate Wire Feeder (8 Meter inter-connecting cable",
+            "Stich Welding & Spot Welding",
+            "Step Transformer",
+            "4 Roller Drive",
+            "LED Display"
         ]
     },
     {
-        "name":"",
-        "category":"",
-        "image":"img.png",
+        "name":"Javweld MIG 500",
+        "category":"Mig Machines",
+        "image":"img70.png",
         "description":[
-
+            "Separate Wire Feeder (8 Meter inter-connecting cable)",
+            "Stich Welding & Spot Welding",
+            "Step Transformer",
+            "4 Roll wire feeder",
+            "LED Display"
         ]
     },
-    
-    
-    
-]
+    {
+        "name":"Javweld MIG 350 Synergic Dual Pulse",
+        "category":"Mig Machines",
+        "image":"img71.png",
+        "description":[
+            "Pulse & Dual Pulse (Devoted Pulse)= Curves for aluminum, stainless steel, etc.)",
+            "Complete range of synergic programs",
+            "Wave Form Control for better Arc stability",
+            "Programmable with Job Safety function",
+            "Lift Tig capability with Down Slope",
+            "MMA Equipeed with temperature, voltage and current sensors"
+        ]
+    },
+    {
+        "name":"Javweld MIG 500 Synergic Dual Pulse",
+        "category":"Mig Machines",
+        "image":"img72.png",
+        "description":[
+            "Pulse & Dual Pulse (Devoted Pulse)= Curves for aluminum, stainless steel, etc.)",
+            "Complete range of synergic programmes",
+            "Wave Form Control for better Arc stability",
+            "Programme with Job Safety function",
+            "Lift Tig capability with Down Slope",
+            "MMA Equipeed with temperature, voltage and current sensors",
+            "Equipped with temperature voltage and current sensors"
+        ]
+    },
+    {
+        "name":"MegaTec ECOCUT 40",
+        "category":"Plasma Cutters",
+        "image":"img73.png",
+        "description":[
+            "Fast and easy cutting of mild and stainless steel",
+            "Light and portable plasma cutter with attached water trap",
+            "Cutting by means of plasma arc reduces heat build it and warpage of material",
+            "Cost effective and low maintenance",
+            "Built in over current & over voltage sensors"
+        ]
+    },
+    {
+        "name":"Javweld Cut 40 COM",
+        "category":"Plasma Cutters",
+        "image":"img74.png",
+        "description":[
+            "Non HF - Reduces risk of industry signal inteference",
+            "Built-in-compressor",
+            "Plug & play"
+        ]
+    },
+    {
+        "name":"Jvaweld Cut 65 CNC",
+        "category":"Plasma Cutters",
+        "image":"img75.png",
+        "description":[
+            "Non HF - Reduces risk of injury signal interference"
+        ]
+    },
+    {
+        "name":"Javweld Cut 120 CNC",
+        "category":"Plasma Cutters",
+        "image":"img76.png",
+        "description":[
+            "Non HF - Reduces risk of industry signal inteference",
+            "Heaby industrial use"
+        ]
+    },
+    {
+        "name":"Parker SCP 80 Suregrip Surecut Plasma Cutting Torch",
+        "category":"Plasma Torches",
+        "image":"img77.png",
+        "description":[
+            "Air-cooled",
+            "Suitable for CUT 65 CNC NON HF Plasma Cutter (Hand-held)"
+        ]
+    },
+    {
+        "name":"Parker SCP 120 Suregrip Surecut Plasma Cutting Torch",
+        "category":"Plasma Torches",
+        "image":"img78.png",
+        "description":[
+            "Air-cooled",
+            "Suitable for CUT 120 CNC NON HF Plasma Cutter (Machine)"
+        ]
+    },
+    {
+        "name":"Parker SCP 120R Suregrip Surecut Plasma Cutting Torch",
+        "category":"Plasma Torches",
+        "image":"img79.png",
+        "description":[
+            "Air-cooled",
+            "Suitable for CUT 120 CNC NON HF Plasma Cutter (Machine)"
+        ]
+    },
+    {
+        "name":"Parker STR A81R Suregrip TRF Plasma Torch",
+        "category":"Plasma Torches",
+        "image":"img80.png",
+        "description":[
+            "Suitable for HF PLASMA CUTTERS"
+        ]
+    },
+    {
+        "name":"Parker STR A101R Suregrip TRF Plasma Torch",
+        "category":"Plasma Torches",
+        "image":"img81.png",
+        "description":[
+            "Suitable for HF PLASMA CUTTERS"
+        ]
+    },
+    {
+        "name":"Parker SCP 60 SUREGRIP SURECUT PLASMA CUTTING TORCH Air-Cooled",
+        "category":"Plasma Torches",
+        "image":"img82.png",
+        "description":[
+            "Suitable for CUT 40 COM NON HF Plasma Cutter - Hand held"
+        ]
+    },
+    {
+        "name":"Suregrip MB15 Style Gas-Cooled MIG Torch",
+        "category":"MIG MB15",
+        "image":"img83.png"
+        
+    },
+    {
+        "name":"Suregrip MB25 Style Gas-Cooled MIG Torch",
+        "category":"MIG MB25",
+        "image":"img84.png"
+    },
+    {
+        "name":"Suregrip MB36 Style MIG Torch Gas-Cooled",
+        "category":"MIG MB36",
+        "image":"img85.png"
+        
+    },
+    {
+        "name":"Suregrip ALW455 MIG Torch",
+        "category":"MIG ALW455",
+        "image":"img86.png"
+        
+    },
+    {
+        "name":"SuregripMB 501 Style MIG Torch Water-Cooled",
+        "category":"MIG MB501 2 /C STD & MMachine",
+        "image":"img87.png",
+        "description":[
+            "For Automated Processes where consistancy is key",
+            "Controlled Distance & Weld Penetration increased Production rate",
+            "Quality Welds time & time again"
+        ]
+    },
+    {
+        "name":"Suregrip 605W Water-Cooled Mig Torch",
+        "category":"MIG 600A Water-Cooled",
+        "image":"img88.png"
+    },
+    {
+        "name":"Suregrip Push-Pull Ergo MIG Torch Sgp360",
+        "category":"mig 36 Push-Pull",
+        "image":"img89.png"
+    },
+    {
+        "name":"Suregrip 17 Valved Torch Gas-Cooled",
+        "category":"TIG 17 V",
+        "image":"img90.png"
+    },
+    {
+        "name":"Suregrip 17 H.F Flexi Gas Cooled TIG Torch",
+        "category":"TIG 17",
+        "image":"img91.png"
+        
+    },
+    {
+        "name":"Suregrip 18 H.F TIG Torch Water-Cooled",
+        "category":"TIG 18 Water-Cooled",
+        "image":"img92.png"
+        
+    },
+    {
+        "name":"Suregrip 26 Valved TIG Torch Gas-Cooled",
+        "category":"TIG 26 V",
+        "image":"img93.png"
+        
+    },
+    {
+        "name":"Suregrip 26 H.F Flexi TIG Gas-Cooled",
+        "category":"TIG 26",
+        "image":"img94.png"
+        
+    },
+    {
+        "name":"Suregrip 250M H.F. (Multi-Adjustable 360°) TIG Torch Water-Cooled",
+        "category":"TIG 250A W/C Special Access",
+        "image":"img95.png"
+    },
+    {
+        "name":"Suregrip WP9 TIG Torch Gas-Cooled",
+        "category":"TIG WP9 8MTR Special Access",
+        "image":"img96.png"
+        
+    },
+    {
+        "name":"Model 351 Gas Saving Flowmeter Regulator",
+        "category":"Harris",
+        "image":"img97.png",
+        "description":[
+            "Economical zero compensated Flowmeter Regulator",
+            "Built smart and priced economically",
+            "For cylinder use",
+            "Compact design",
+            "Design is more resistant to CO2 freeze-up and guage damage then typical flow control devices",
+            "Saving gas - operates at pressures lower than typical"
+        ]
+        
+    },
+    {
+        "name":"Series 896 Cylinder Regulator",
+        "category":"Harris",
+        "image":"img98.png",
+        "description":[
+            "Two regulators in one touch tough brass body. Only with multi stage regulators are both pressure and flow controlled with extreme accuracy regardless of changing cylinder pressure.All models are suitable for use also with lightweight gasses",
+            "First stage (high pressure) reduces shock of full cylinder pressure by approximately 90%",
+            "Uses the Harris made capsule P.T.F.E. (Teflon) seat on first stage.This seat is pre-tested and sealed with an internal sintered alloy filter (replacing inlet stem filter),to give extremely long life",
+            "Complying with EN ISO-2503 - compressed gas regulators have tamperproof internal safety relief valve (IRV)",
+            "Large second stage diaphragm (in satinless steel on 25 bar model) accurrately controls delivery pressure",
+            "Knob is adjustable, but cannot be removed from its regulator accidentally.High pressure models (15 and 25 bar) are fitted with large adjusting \"T\" screw and stainless steel ball for smooth pressure adjustment",
+            "Clear identity label has colour, gas name, inlet and maximum outlet pressure",
+            "Large (63mm Ø) safety pressure guages with a rear safety conform to EN-562"
+        ]
+        
+        
+    },
+    {
+        "name":"Regulator Model 987 Climatester",
+        "category":"Harris",
+        "image":"img99.png",
+        "description":[
+            "High Pressure nitrogen regulator for air conditioning / refrigerating equipment test",
+            "Inlet pressure up to 300 bar",
+            "HP guage: 0-400 bar",
+            "Outlet pressure:0-55 bar",
+            "HP gauge: 0-70 bar",
+            "Inlet connection as per country specification",
+            "Body bonnet and adjusting knob in forged brass",
+            "Stainless steel diaphragm is designed to retain the full cylinder pressure",
+            "high pressure KEL-F capsule seat",
+            "Safety guages conform to EN-562"
+        ]
+        
+    },
+    {
+        "name":"Model 28 Hand Cutting Torch",
+        "category":"Harris",
+        "image":"img100.png",
+        "description":[
+            "Inlet pressure up to 300 bar",
+            "HP guage: 0-400 bar",
+            "Outlet pressure:0-55 bar",
+            "HP gauge: 0-70 bar",
+            "Inlet connection as per country specification",
+            "Body bonnet and adjusting knob in forged brass",
+            "Stainless steel diaphragm is designed to retain the full cylinder pressure",
+            "high pressure KEL-F capsule seat",
+            "Safety guages conform to EN-562"
+        ]
+        
+    },
+    {
+        "name":"model 62-5 Industrial Torch",
+        "category":"Harris",
+        "image":"img101.png",
+        "description":[
+            "Hand cutting low pressure torch for Acetylene",
+            "This hand torch is the industrt standard by which all other designs are compared. It is less expensive to own and operate and safer to use",
+            "Lower fuel gas consumption",
+            "Heats and cuts fast",
+            "Simple to repair",
+            "The same torch can be used for cutting and gouging",
+            "Spare parts and accessories easily available",
+            "World-wide reputation as the best torch",
+            "Cuts up to 300mm steel",
+            "Fuel gas pressure low as 0,15 bar",
+            "Low pressure torch for acetylene and hydrogen",
+            "Solid forged head and lever resist abuse and distortion",
+            "Compact and lightweight triangular tube with exceptional strenght and rigidity",
+            "Brazed connections prevent leals",
+            "Ease-on oxygen for smoother starts",
+            "Head mixing",
+            "Lever positioned underneath",
+            "Simply change tip for cutting or gouging",
+            "Replaceable mixer",
+            "Use with 6290 tips"
+        ]
+        
+    },
+    {
+        "name":"Model 730 Single Stage Cylinder Regulator",
+        "category":"Harris",
+        "image":"img102.png",
+        "description":[
+            "Medium duty cutting, heating and welding",
+            "Designed to seal and reduce risk leaks",
+            "Proven capsule seat with filter",
+            "Enough fuel to cut up to 300mm steel",
+            "Smooth adjustmet, with high precision",
+            "Maximum inlet pressure of 230 bar",
+            "High pressure capsule seat with PTFE (Teflon)",
+            "\"D\" versions and self reseating internal safety relief valve (IRV)",
+            "Quality 50mm metal, black cased, guages",
+            "Standard version with black  painted bonnet"
+        ]
+        
+    }
+]    
