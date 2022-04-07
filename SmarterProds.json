@@ -1,0 +1,517 @@
+[
+    {
+        "name":"Flip Front Helmet",
+        "category":"Welding Helmets",
+        "image":"img1.png",
+        "description":[
+            "Durable",
+            "Affordable",
+            "Spare Lenses available",
+            "For use in all types of welding & grinding"
+        ]
+
+    },
+    {
+        "name":"Auto Darkening Mars Black",
+        "category":"Welding Helmets",
+        "image":"img2.png",
+        "description":[
+            "For use on ARC,MAG,STICK & TIG welding & plasma cutting",
+            "Full 1 Year Limited Warranty",
+            "Includes 2 Sets Free Lenses,Spares Also Available"
+        ]
+    },
+    {
+        "name":"Auto Darkening Mars Black Pro",
+        "category":"Welding Helmets",
+        "image":"img3.png"
+    },
+    {
+        "name":"Auto Darkening Mars Colour",
+        "category":"Welding Helmets",
+        "image":"img4.png",
+        "description":[
+            "For use on ARC,MAG,STICK & TIG welding & plasma cutting",
+            "Full 1 Year Limited Warranty",
+            "Includes 2 Sets Free Lenses,Spares Also Available"
+        ]
+    },
+    {
+        "name":"Auto Darkening Hitman",
+        "category":"Welding Helmets",
+        "image":"img5.png"
+    },
+    {
+        "name":"Cobra Auto Darkening Goggle",
+        "category":"Welding Helmets",
+        "image":"img6.png",
+        "description":[
+            "For welding in hard-to-reach areas like pipes where a conventional auto darkening helmet is not suitable",
+            "Advanced comfortable silicon lining",
+            "Air vent system for \"Eye-Breath\"",
+            "New digital control system",
+            "Shock absorbing / heat resistant frame",
+            "Self adjusting skirt for comfortabel fit",
+            "100% cotton soft hood (Blue)",
+            "Fire resistant shield (Black)" 
+        ]
+    },
+    {
+        "name":"Holland Type Electrode Holder",
+        "category":"Electrode Holders",
+        "image":"img7.png",
+        "description":[
+            "HEAVY DUTY JAW-TYPE ELECTRODE HOLDER",
+            "USED TO CONDUCT WELDING CURRENT TO ELECTRODE",
+            "300AMP - UP TO 4MM ELECTRODE",
+            "600AMP - UP TO 5MM ELECTRODE"
+        ]
+    },
+    {
+        "name":"Optimus Type Electrode Holder",
+        "category":"Electrode Holders",
+        "image":"img8.png",
+        "description":[
+            "HEAVY DUTY OPTIMUS TYPE ELECTRODE HOLDER",
+            "ELECTRODE CAN BE POSITIONED FROM FRONT OR SIDE OF HOLDER",
+            "300AMP - UP TO 4MM ELECTRODE",
+            "600AMP - UP TO 5MM ELECTRODE"
+        ]
+    },
+    {
+        "name":"Crocodile Style Earth Clamp",
+        "category":"Earth Clamps",
+        "image":"img9.png",
+        "description":[
+            "HEAVY DUTY CROCODILE STYLE EARTH CLAMP",
+            "SUITABLE FOR ARC,MIG & TIG WELDING",
+            "SOLID DESIGN WITH STRONG SPRING JAWS"
+        ]
+    },
+    {
+        "name":"Magnetic Earth Clamp",
+        "category":"Earth Clamps",
+        "image":"img10.png",
+        "description":[
+            "ALLOWS YOU TO MAKE A SOLID EARTH CONNECTION ON FLAT OR CURVED SURFACES",
+            "IDEAL FOR USE IN AREAS THAT ARE DIFFICULT TO CLAMP WITH A STANDARD CROCODILE CLAMP",
+            "CAN BE TURNED ON(MAGNETISED) OR OFF (DE-MAGNETISED)"
+        ]
+    },
+    {
+        "name":"5 Row Wire Brush",
+        "category":"Wire Brushes",
+        "image":"img11.png",
+        "description":[
+            "5 ROW WIRE BRUSH",
+            "WOODEN HANDLE",
+            "AVAILABLE IN STAINLESS STEEL AND MID STEEL"
+        ]
+    },
+    {
+        "name":"6 Row Wire Brushes",
+        "category":"Wire Brushes",
+        "image":"img12.png",
+        "description":[
+            "6 ROW WIRE BRUSH",
+            "PLASTIC HANDLE",
+            "MILD STEEL"
+        ]
+    },
+    {
+        "name":"Spark/Flint Lighter",
+        "category":"Flint Lighter",
+        "image":"img13.png",
+        "description":[
+            "CREATES A SPARK TO START FAS CUTTING/BRAZING TORCH"
+        ]
+    },
+    {
+        "name":"Nozzle & Tip Cleaner",
+        "category":"Nozzle Cleaner",
+        "image":"img14.png",
+        "description":[
+            "WELDING & CUTTING TORCH TIP NOZZLE CLEANER SET IN METAL PROTECTIVE CASE",
+            "USED TO CLEAN GAS CUTTING NOZZLES"
+        ]
+    },
+    {
+        "name":"Pro-Safety Multi-Spec Set",
+        "category":"Safety Eyewear",
+        "image":"img15.png",
+        "description":[
+            "Set of 4 Safety Glasses",
+            "1 Polycarbonate Frame with Interchangable Lenses",
+            "Lens Colours Include Clear,Smokey Grey,Amber & Blue",
+            "Quick Release Interchangable Temples with an Elastic Strap & ",
+            "Non-Slip Template Pads",
+            "Can Be Worn with Inner Foam Gasket for Additional Dust Protection",
+            "Adjustable Rubber Nose Piece"
+        ]
+    },
+    {
+        "name":"Pro-Wrap",
+        "category":"Safety Eyewear",
+        "image":"img16.png",
+        "description":[
+            "With Anti-Scratch & Anti-UV Protection",
+            "Polycarbonate Lense & Side Shields",
+            "PP Frame",
+            "Adjustable Temple Arns - 4 Step Adjustment",
+            "Available in Clear, Amber 7 Dark" 
+        ]
+    },
+    {
+        "name":"Over-Spec Pro",
+        "category":"Safety Eyewear",
+        "image":"img17.png",
+        "description":[
+            "With Anti-Scratch & Anti-UV Protection",
+            "Polycarbonate Lens & Side Shields",
+            "Designed to be worn over your regular glasses",
+            "Deliver visual clarity,ANSI compliance & never having to remove your prescription glasses"
+        ]
+    },
+    {
+        "name":"Pro-View Sport",
+        "category":"Safety Eyewear",
+        "image":"img18.png",
+        "description":[
+            "With Anti-Scratch & Anti-UV Protection",
+            "Polycarbonate Lens",
+            "Light Frame for Comfort"
+        ]
+    },
+    {
+        "name":"Pro-View",
+        "category":"Safety Eyewear",
+        "image":"img19.png",
+        "description":[
+            "With Anti-Scratch & Anti-UV Protection",
+            "Polycarbonate Lens",
+            "Light Frame for Comfort"
+        ]
+    },
+    {
+        "name":"Pro-Luxx",
+        "category":"Safety Eyewear",
+        "image":"img20.png",
+        "description":[
+            "Polycarbonate Lens & Frame",
+            "Anti-Scratch Lens",
+            "Soft Tpr Nose Pad or More Comfort",
+            "Conforms to ANSI Z87.1 Standard"
+        ]
+    },
+    {
+        "name":"Pro-Flip",
+        "category":"Safety Eyewear",
+        "image":"img21.png",
+        "description":[
+            "Shade 6 Flip Front Lens",
+            "Anti-UV Protection",
+            "Frame Material PVC & PP"
+        ]
+    },
+    {
+        "name":"Pro-View Goggle",
+        "category":"Safety Eyewear",
+        "image":"img22.png",
+        "description":[
+            "With Anti-Scratch & Anti-UV Protection",
+            "Polycarbonate Lens",
+            "Uses a Soft Material Ensuring a Secure Fit",
+            "Suitable For Oil & Chemistry Industry"
+        ]
+    },
+    {
+        "name":"Clear Goggle",
+        "category":"Safety Eyewear",
+        "image":"img23.png",
+        "description":[
+            "Light-Weight PVC Clear Goggle"
+        ]
+    },
+    {
+        "name":"Magnetic Welding Holders",
+        "category":"Magnetic Arrows",
+        "image":"img24.png",
+        "description":[
+            "WWELDING MAGNETS ARE VERY STRONG MAGNETS USED IN WELDING TOOLS",
+            "STICK TO ANY METAL SURFACE & CAN HOLD OBJECTS AT 45°,90° & 135° ANGLES",
+            "WELDING MAGNETS ALLOW WORKMEN TO FREE THEIR HANDS IN ORDER TO SAFELY WORK ON THEIR PROJECTS",
+            "WELDING MAGNETS ALSO ALLOW FOR QUICK SET UP & ACCURATE HOLDING"
+        ]
+    },
+    {
+        "name":"Chipping Hammer",
+        "category":"Chipping Hammer",
+        "image":"img25.png",
+        "description":[
+            "500gr CHIPPING HAMMER"
+        ]
+    },
+    {
+        "name":"Welding Lenses",
+        "category":"Welding Lenses",
+        "image":"img26.png",
+        "description":[
+            "REPLACEMENT LENSES FOR SAFETY GOGGLES & FLIP FRONT HELMETS",
+            "GLASS"
+        ]
+    },
+    {
+        "name":"Welding Screens",
+        "category":"Welding Screens",
+        "image":"img27.png",
+        "description":[
+            "HIGH QUALITY, DURABLE PLASTIC SHEETING",
+            "PREVENTS ARC EYES",
+            "FILTERS DAMAGING UV LIGHT",
+            "SELF EXTINGUISHING",
+            "EASY TO SECURE",
+            "EYELETS INCLUDED",
+            "COMPLIES WITH HEALTH & SAFETY REGULATIONS",
+            "SIZES CAN BE MADE TO ANY SPECIFICATIONS"
+        ]
+    },
+    {
+        "name":"Electrodes",
+        "category":"Electrodes",
+        "image":"img28.png",
+        "description":[
+            "GENERAL PURPOSE WELDING ELECTRODES",
+            "SUITABLE FOR WELDING MILD STEEL SECTIONS,BARS & THIN/MEDIUM PLATE",
+            "SABS 455: E4313/0315",
+            "AWS A5.1: E6013",
+            "ISO 2560:E43 3R11",
+            "DIN 1913: E4322 R (C)"
+        ]
+    },
+    {
+        "name":"Thoriated Tungstens",
+        "category":"Tungsten Electrodes",
+        "image":"img29.png",
+        "description":[
+            "FOR USE ON MILD STEEL,STAINLESS STEEL,NICKEL BASED ALLOYS, TITANIUM, CAST STEEL, ETC.",
+            "2% THORIUM",
+            "GROUND FINISH",
+            "ISO 6848",
+            "ANSI / AWS A5.12M-98"
+        ]
+    },
+    {
+        "name":"Zirconiated Tungstens",
+        "category":"Tungsten Electrodes",
+        "image":"img30.png",
+        "description":[
+            "FOR USE ON ALUMINIUM",
+            "0.8% ZIRCONIUM",
+            "GROUND FINISH",
+            "ISO 6848",
+            "ANSI / AWS A5.12M-98"
+        ]
+    },
+    {
+        "name":"Lanthanated Tungstens",
+        "category":"Tungsten Electrodes",
+        "image":"img31.png",
+        "description":[
+            "FOR USE ON ALL MATERIALS",
+            "2% LANTHANUM",
+            "THORIUM FREE (NON-RADIO ACTIVE)",
+            "GROUND FINISH",
+            "ISO 6848",
+            "ANSI / AWS A5.12M-98"
+        ]
+    },
+    {
+        "name":"Cable Set",
+        "category":"Cable Set",
+        "image":"img32.png",
+        "description":[
+            "5M EARTH CABLE AND CLAMP SET"
+        ]
+    },
+    {
+        "name":"Solid Brass Cutting Torch",
+        "category":"Gas Welding Equipment",
+        "image":"img33.png"
+    },
+    {
+        "name":"Oxygen Regulator",
+        "category":"Gas Welding Equipment",
+        "image":"img34.png"
+    },
+    {
+        "name":"Acetylen Regulator",
+        "category":"Gas Welding Equipment",
+        "image":"img35.png"
+    },
+    {
+        "name":"Argon Flowmeter Chrome",
+        "category":"Gas Welding Equipment",
+        "image":"img36.png"
+    },
+    {
+        "name":"Brass Flowmeter Chrome Plated",
+        "category":"Gas Welding Equipment",
+        "image":"img37.png"
+    },
+    {
+        "name":"LPG Regulator",
+        "category":"Gas Welding Equipment",
+        "image":"img38.png",
+        "description":[
+            "High pressure LPG regulator for industrial cutting,heating & welding (Not suitable for domestic use)"
+        ]
+    },
+    {
+        "name":"Oxy Acetylene Cutting Nozzles",
+        "category":"Gas Welding Equipment",
+        "image":"img39.png"
+    },
+    {
+        "name":"Oxy LPG Cutting Nozzles",
+        "category":"Gas Welding Equipment",
+        "image":"img40.png"
+    },
+    {
+        "name":"Oxygen Flashback Arrestor",
+        "category":"Gas Welding Equipment",
+        "image":"img41.png"
+    },
+    {
+        "name":"Acetylene Flashback Arrestor",
+        "category":"Gas Welding Equipment",
+        "image":"img42.png"
+    },
+    {
+        "name":"Acetylene Flashback Arrestor",
+        "category":"Gas Welding Equipment",
+        "image":"img43.png"
+    
+    },
+    {
+        "name":"Twin Tube Purging Flow Meter",
+        "category":"Flow Meters",
+        "image":"img44.png"
+    },
+    {
+        "name":"Argon Flow Meter Brass",
+        "category":"Flow Meters",
+        "image":"img45.png",
+        "description":[
+            "Heavy Duty"
+        ]
+    },
+    {
+        "name":"Gas Flow Tester",
+        "category":"Flow Meters",
+        "image":"img46.png"
+    },
+    {
+        "name":"Male Dinse Connectors",
+        "category":"Dinse Connectors",
+        "image":"img47.png"
+    },
+    {
+        "name":"Female Machine Sockets",
+        "category":"Machine Panel Sockets",
+        "image":"img48.png"
+    },
+    {
+        "name":"Single Propane Hose",
+        "category":"Hose",
+        "image":"img49.png",
+        "description":[
+            "Tube: NBR compound",
+            "Reinforced: Spiral Polyster yams",
+            "Cover:EPDM compound",
+            "Cover: Smooth cover, withouth corrugated cover",
+            "Cover: Flamability",
+            "Ozone resstnace; Aging resistance",
+            "Oil Resistance: Limited(Acetylene only",
+            "Temperature Range: (-25°C) ~ (+80°C)",
+            "Working Pressure: 200PSI, Burst pressure: 800PSI",
+            "I.D: 5/16\"",
+            "Compliance: EN ISO3821"
+            
+        ]
+    },
+    {
+        "name":"Single Hose for Oxygen",
+        "category":"Hose",
+        "image":"img50.png",
+        "description":[
+            "Tube: NBR compound",
+            "Reinforced: Spiral Polyster yams",
+            "Cover:EPDM compound",
+            "Cover: Smooth cover, withouth corrugated cover",
+            "Cover: Flamability",
+            "Ozone resstnace; Aging resistance",
+            "Oil Resistance: Limited(Acetylene only",
+            "Temperature Range: (-25°C) ~ (+80°C)",
+            "Working Pressure: 200PSI, Burst pressure: 800PSI",
+            "I.D: 5/16\"",
+            "Compliance: EN ISO3821"
+            
+        ]
+    },
+    {
+        "name":"Reinforced PVC Clear Hose",
+        "category":"Hose",
+        "image":"img51.png",
+        "description":[
+            "Application: Clear reinforced PVC compressesd air hose rated to 20 Bar",
+            "Material: Tube and cover materials are new,pure and clear - no recycled materials",
+            "Temperature Range: (-10°C) ~ (+60°C)",
+            "Reinforcement: Textile yarns"
+        ]
+    },
+    {
+        "name":"MegaTec MMA 160 Black Series",
+        "category":"Welding Inverters",
+        "image":"img52.png",
+        "description":[
+            "Suitable for maintenance and repair",
+            "Lightweight 3.2kg ARC wleder with carry strap",
+            "Over-current and over voltage protection"
+        ]
+    },
+    {
+        "name":"",
+        "category":"",
+        "image":"img53.png",
+        "description":[
+
+        ]
+    },
+    {
+        "name":"",
+        "category":"",
+        "image":"img.png",
+        "description":[
+
+        ]
+    },
+    {
+        "name":"",
+        "category":"",
+        "image":"img.png",
+        "description":[
+
+        ]
+    },
+    {
+        "name":"",
+        "category":"",
+        "image":"img.png",
+        "description":[
+
+        ]
+    }
+    
+    
+    
+]
